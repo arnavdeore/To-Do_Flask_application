@@ -18,7 +18,7 @@ The Flask To-Do application is a simple yet effective web-based task management 
 
 - **Backend**: Flask (Python)
 - **Database**: SQLite
-- **Frontend**: HTML, CSS, Bootstrap # sample codes copied and developed from https://getbootstrap.com/docs/5.3/getting-started/introduction/
+- **Frontend**: HTML, CSS, Bootstrap (sample codes copied and developed from https://getbootstrap.com/docs/5.3/getting-started/introduction/)
 - **Deployment**: Compatible with platforms like Heroku
 
 ---
