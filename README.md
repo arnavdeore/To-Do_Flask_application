@@ -22,3 +22,21 @@ The Flask To-Do application is a simple yet effective web-based task management 
 - **Deployment**: Compatible with platforms like Heroku
 
 ---
+
+📂 Project Structure
+- The following is the structure of the project:
+
+      To-Do_Flask_application/
+            │
+            ├── app.py               # Main Flask application
+            ├── templates/           # HTML templates for rendering views
+            │   ├── index.html       # Home page for to-dos
+            │   ├── update.html      # Update task page
+            │
+            ├── static/              # Static files (CSS, JS, Images)
+            │   ├── style.css        # Custom styles for the app
+            │
+            ├── todo.db              # SQLite database file
+            └── README.md            # Project documentation
+
+---
