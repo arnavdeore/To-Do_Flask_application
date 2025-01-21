@@ -40,3 +40,16 @@ The Flask To-Do application is a simple yet effective web-based task management 
             └── README.md            # Project documentation
 
 ---
+
+## ⚡ Getting Started
+
+### Prerequisites
+    - Python 3.x
+    - Flask
+    - Virtual Environment (optional but recommended)
+
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone [Your_repository_link]
+   cd To-Do_Flask_application
