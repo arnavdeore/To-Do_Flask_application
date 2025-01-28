@@ -30,11 +30,11 @@ The Flask To-Do application is a simple yet effective web-based task management 
             │
             ├── app.py               # Main Flask application
             ├── templates/           # HTML templates for rendering views
-            │   ├── index.html       # Home page for to-dos
-            │   ├── update.html      # Update task page
+            │   └── index.html       # Home page for to-dos
+            │   └── update.html      # Update task page
             │
             ├── static/              # Static files (CSS, JS, Images)
-            │   ├── style.css        # Custom styles for the app
+            │   └── style.css        # Custom styles for the app
             │
             ├── todo.db              # SQLite database file
             └── README.md            # Project documentation
