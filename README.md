@@ -55,7 +55,7 @@
              └── pip install flask  
              └── pip install flask-sqlalchemy
            ├── python .\app.py
-           ├── python:
+           ├── Python:
               └── from app import app   OR     from app import app, db
               └── db.create_all()       OR     with app.app_context():
                                                     db.create_all()
