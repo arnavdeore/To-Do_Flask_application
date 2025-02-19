@@ -1,7 +1,7 @@
 <h1 align="center"> To-Do_Flask_application </h1>
 <p align="center"> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXB4b2l0M3dmeGJ4a25kcjQ3dDJzNDA2azF0N24wd2VieTJpbWNobiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cJBQoc3fZDgDIUoXhv/giphy.gif" width="600"> </p>
 <p align="center">The Flask To-Do application is a simple yet effective web-based task management tool built using Python's Flask framework. It allows 
-                  users to create, view, update, and delete tasks efficiently, providing an intuitive interface for managing daily activities. The 
+                  users to efficiently create, view, update, and delete tasks, providing an intuitive interface for managing daily activities. The 
                   public is looking to note down their functions in an easy-to-use environment.
 </p>
 
